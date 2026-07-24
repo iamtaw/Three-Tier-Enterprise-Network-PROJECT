@@ -109,6 +109,12 @@ FTP — vsftpd, mainly used for pulling config backups off the routers/switches 
 - Default SNMP community strings and a couple of other lab shortcuts are called out above on purpose — didn't want to just quietly leave them in without saying so.
 
 ---
+## Device Configurations
+Full show running-config output for every device in this topology is available in this repository:
+- [EDGE-R.cfg](EDGE-R.cfg) / [EDGE-R2.cfg](EDGE-R2.cfg) — edge routers
+- [CSW-1.cfg](CSW-1.cfg) / [CSW-2.cfg](CSW-2.cfg) — core switches
+- [DSW-1.cfg](DSW-1.cfg) / [DSW-2.cfg](DSW-2.cfg) — distribution switches
+- [ASW-1.cfg](ASW-1.cfg) through [ASW-4.cfg](ASW-4.cfg) — access switches
 
 ## Tools
 
