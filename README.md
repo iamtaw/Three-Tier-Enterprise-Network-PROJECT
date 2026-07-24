@@ -1,4 +1,5 @@
 # Three-Tier Enterprise Network
+![Three-Tier Network Design](Three-Tier-enterprise-design.png)
 
 This is a lab I built in EVE-NG while preparing for my CCNA — the goal was to move past isolated topic labs (just OSPF, just VLANs, just NAT) and put everything together the way it would actually look in a small business network: dual ISP edge, a proper three-tier hierarchy, redundancy at every layer, and some centralized services running on a Linux box because a real network doesn't just route packets, it also needs to be monitored and managed.
 
