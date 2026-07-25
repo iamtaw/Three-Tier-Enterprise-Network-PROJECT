@@ -1,5 +1,5 @@
 # PPPoE Configuration Lab
-
+![PPPoE Topology](./PPPoE-config-and-authentication.png)
 ## Overview
 This lab demonstrates PPPoE (Point-to-Point Protocol over Ethernet) 
 configuration between a Customer (PPPoE Client) and an ISP (PPPoE Server), 
